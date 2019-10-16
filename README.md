@@ -2,6 +2,11 @@
 
 This project analyzes AirBnB listing dataset, which has 37 features and log price of that particular listing as output. The dataset contains 74,112 records from which 80% data is used for training of different models, while 20% test data is used for evaluation of that model. 
 
+
+## Dataset 
+
+https://www.kaggle.com/stevezhenghp/airbnb-price-prediction
+
 ## Exploratory Data Analysis 
 
 * Removal of unnecessary features(URLS, thumbnails)
