@@ -24,3 +24,11 @@ This project analyzes AirBnB listing dataset, which has 37 features and log pric
 * AIC,BIC
 * R^2
 
+## Requirements
+
+* sklearn
+* keras
+* matplotlib
+* tensorflow
+* numpy
+* pandas
